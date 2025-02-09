@@ -6,7 +6,7 @@ Sou um *Analista de Dados* com experiência em *Python, Django, SQL e BI, apaixo
 ## 💡 O que eu faço?  
 - 💻 Desenvolvimento de soluções em *inteligência artificial e automação*
 - 🖥 Criação de aplicações web utilizando *Python e Django*  
-- 📊 Análise e interpretação de dados regulatórios e do setor de saúde  
+- 📊 Análise e interpretação de dados SQL  
 - 📈 Desenvolvimento de relatórios e dashboards interativos com *BI*  
  
 
