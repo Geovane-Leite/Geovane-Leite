@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Geovane Leite!  
 
-<!--
-**Geovane-Leite/Geovane-Leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim  
+Sou um *Analista de Dados* com experiência em *Python, Django, SQL e BI, apaixonado por tecnologia e inovação. Atualmente, estou trabalhando no projeto **auditAI*, um chat especializado em dados relacionados às regulamentações da ANS, atas do CNA, lista de cobertura da Unimed e muito mais.  
 
-Here are some ideas to get you started:
+## 💡 O que eu faço?  
+- 💻 Desenvolvimento de soluções em *inteligência artificial e automação*  
+- 📊 Análise e interpretação de dados regulatórios e do setor de saúde  
+- 🗄 Manipulação e otimização de bancos de dados com *SQL*  
+- 📈 Desenvolvimento de relatórios e dashboards interativos com *BI*  
+- 🖥 Criação de aplicações web utilizando *Python e Django*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar?  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-geovane--leite-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/geovane-leite)  
+[![GitHub](https://img.shields.io/badge/GitHub-geovane--leite-black?style=flat&logo=github)](https://github.com/geovane-leite)  
+
+⚡ Sempre em busca de novos desafios e oportunidades para aprender e crescer!
