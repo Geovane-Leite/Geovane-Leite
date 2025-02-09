@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Geovane Leite!  
 
 ## 🚀 Sobre mim  
-Sou um *Analista de Dados* com experiência em *Python, Django, SQL e BI, apaixonado por tecnologia e inovação. Atualmente, estou trabalhando no projeto **auditAI*, um chat especializado em dados relacionados às regulamentações da ANS, atas do CNA, lista de cobertura da Unimed e muito mais.  
+Sou um *Analista de Dados* com experiência em *Python, Django, SQL e BI, apaixonado por tecnologia e inovação.  
 
 ## 💡 O que eu faço?  
-- 💻 Desenvolvimento de soluções em *inteligência artificial e automação*  
-- 📊 Análise e interpretação de dados regulatórios e do setor de saúde  
-- 🗄 Manipulação e otimização de bancos de dados com *SQL*  
-- 📈 Desenvolvimento de relatórios e dashboards interativos com *BI*  
+- 💻 Desenvolvimento de soluções em *inteligência artificial e automação*
 - 🖥 Criação de aplicações web utilizando *Python e Django*  
+- 📊 Análise e interpretação de dados regulatórios e do setor de saúde  
+- 📈 Desenvolvimento de relatórios e dashboards interativos com *BI*  
+ 
 
 
 ## ⚙️ Tecnologias:
